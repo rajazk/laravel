@@ -1,0 +1,74 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3000"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="108"
+   height="52"
+   sodipodi:docname="Apple Play ECGT.svg">
+  <metadata
+     id="metadata3006">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3004" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="878"
+     id="namedview3002"
+     showgrid="false"
+     inkscape:zoom="7.6314166"
+     inkscape:cx="51.32216"
+     inkscape:cy="21.637072"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3000" />
+  <g
+     id="g3051"
+     transform="translate(0.31921555,-0.00906732)">
+    <g
+       inkscape:label="Layer"
+       id="layer1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 27.716766,21.544646 c 0.05608,5.849195 5.297547,7.795659 5.355618,7.820507 -0.04432,0.137271 -0.837501,2.773897 -2.761459,5.497348 -1.663175,2.354555 -3.389335,4.700487 -6.108543,4.749074 -2.671895,0.04768 -3.531056,-1.534715 -6.585791,-1.534715 -3.053807,0 -4.008378,1.486128 -6.537623,1.582403 C 8.4542395,39.755473 6.4555383,37.11312 4.7785409,34.767187 1.3517972,29.96849 -1.2669418,21.207226 2.2493645,15.293227 c 1.7468241,-2.936915 4.8685364,-4.796696 8.2568735,-4.844384 2.577416,-0.04762 5.010187,1.679577 6.585791,1.679577 1.574609,0 4.530944,-2.077111 7.638832,-1.772061 1.30107,0.05245 4.953185,0.509065 7.298316,3.833988 -0.188962,0.113468 -4.357728,2.464158 -4.312411,7.354299 M 22.695251,7.1816163 c 1.393484,-1.633825 2.33138,-3.908254 2.075511,-6.171294 -2.008606,0.0782 -4.437458,1.29647 -5.878183,2.929391 -1.291165,1.44603 -2.421942,3.760488 -2.116839,5.9787396 2.238824,0.1677781 4.525955,-1.1019806 5.919511,-2.7368366"
+         id="path2997" />
+    </g>
+    <text
+       transform="scale(1.0117962,0.98834128)"
+       sodipodi:linespacing="125%"
+       id="text3006"
+       y="39.580296"
+       x="38.142979"
+       style="font-size:52.76977921px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;letter-spacing:-2.28914261px;font-family:Myriad Set Pro;-inkscape-font-specification:Myriad Set Pro Light"
+         y="39.580296"
+         x="38.142979"
+         id="tspan3008"
+         sodipodi:role="line">Pay</tspan></text>
+  </g>
+</svg>
